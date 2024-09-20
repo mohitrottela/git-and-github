@@ -1,0 +1,5 @@
+// git command
+git clone
+git status
+git add <file name> or git add . (for all file add)
+git commit -m "message"
