@@ -4,3 +4,8 @@ git status
 git add <file name> or git add . (for all file add)
 git commit -m "message"
 git branch -M main (rename the branch)
+
+//branch command
+git branch
+git branch -M main
+git checkout (branchname)
