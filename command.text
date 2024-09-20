@@ -9,3 +9,4 @@ git branch -M main (rename the branch)
 git branch
 git branch -M main
 git checkout (branchname)
+git branch -d
